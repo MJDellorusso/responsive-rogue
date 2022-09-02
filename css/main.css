@@ -130,21 +130,15 @@ header nav ul li a{
 	border-top: 0.063em solid #eee;
 }
 
-h3 {
-	display: flex;
-	justify-content: flex-start;
-	align-items: center;
+
 	
 	
-}
+
 
 .menu {
 	list-style: none;
 	padding: 0;
-	display: flex;
-	align-items: center;
-	justify-content: flex-start;
-	flex-flow: column wrap;
+	
 }
 .menu li {
 	padding: 0.625em 0;
@@ -155,19 +149,13 @@ h3 {
 	color: #333;
 	font-size: 1em;
 	line-height: 1.313em;
-	display: flex;
-	align-items: center;
-	justify-content: flex-start;
-	flex-flow: row wrap;
+	
 }
 
 .address {
 	font-size: 1em;
 	line-height: 1.5em;
-	display: flex;
-	align-items: center;
-	justify-content: flex-start;
-	flex-flow: row wrap;
+	
 }
 
 /*The widths are in a percentage!*/
