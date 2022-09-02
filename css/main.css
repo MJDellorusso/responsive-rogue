@@ -125,8 +125,8 @@ header nav ul li a{
 .section-one,
 .section-two,
 .section-three {
-	width: 33%;
-	height: 18.75em;
+	width: 100%;
+	
 	border-top: 0.063em solid #eee;
 }
 
