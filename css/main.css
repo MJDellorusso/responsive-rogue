@@ -54,12 +54,12 @@ header {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: 100%;
+	flex-wrap: wrap;
 	
 }
 
 header h1 {
-	
+	width: 100%;
 	margin: 0;
 	padding: 2.375em 0;
 }
@@ -68,7 +68,7 @@ header h1 span {
 }
 
 header nav {
-	
+	width: 100%;
 	padding: 2.875em 0;
 }
 header nav ul {
