@@ -1,5 +1,10 @@
+html{
+	font-size: 16px;
+}
+
 body {
 	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+	font-size: 1em;
 	height: 100%;
 }
 
@@ -17,18 +22,18 @@ h3 {
 	font-weight: 700;
 }
 h1 {
-	font-size: 30px;
+	font-size: 1.875em;
 }
 h2 {
-	font-size: 18px;
+	font-size: 1.125em;
 }
 h3 {
-	font-size: 12px;
+	font-size: 0.75em;
 }
 
 p {
-	font-size: 14px;
-	line-height: 21px;
+	font-size: 0.875em;
+	line-height: 1.313em;
     padding: 0 30px;
 }
 
@@ -40,7 +45,7 @@ header {
 }
 
 header h1 {
-	float: left;
+	
 	margin: 0;
 	padding: 38px 0;
 }
@@ -49,7 +54,7 @@ header h1 span {
 }
 
 header nav {
-	float: right;
+	
 	padding: 46px 0;
 }
 header nav ul {
@@ -72,12 +77,12 @@ header nav ul li a{
 .top-section,
 .bottom-section {
 	margin: 0 auto;
-	clear: both;
+	
 }
 
 .main-image {
 	height: auto;
-	float: left;
+	
 }
 .main-image img {
 	width: 100%;
@@ -86,7 +91,7 @@ header nav ul li a{
 
 .main-title {
 	height: auto;
-	float: left;
+	
 }
 .main-title h2 {
 	text-align: left;
@@ -104,7 +109,6 @@ header nav ul li a{
 .section-three {
 	width: 33%;
 	height: auto;
-	float: left;
 	border-top: 0.063em solid #eee;
 }
 
@@ -147,7 +151,6 @@ footer {
 	height: 50px;
 	border-top: 0.188em solid #eee;
 	margin: 0 auto;
-	clear: both;
 	text-align: center;
 }
 footer span {
