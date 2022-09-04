@@ -80,8 +80,19 @@ header nav ul li a{
 }
 
 /*The widths are in a percentage!*/
-.top-section,
+.top-section{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-flow: row wrap;
+
+}
+
 .bottom-section {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-flow: row wrap;
 	
 	
 }
@@ -155,6 +166,10 @@ header nav ul li a{
 /*The widths are in a percentage!*/
 footer {
 	border-top: 0.188em solid #eee;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-flow: row wrap;
 	
 }
 footer span {
