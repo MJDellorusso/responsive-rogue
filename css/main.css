@@ -47,7 +47,7 @@ p {
 
 /*The widths are in a percentage!*/
 header {
-	height: 110px;
+	
 	border-bottom: 0.188em solid #77a466;
 	
 }
@@ -87,7 +87,7 @@ header nav ul li a{
 }
 
 .main-image {
-	height: auto;
+	
 	
 }
 .main-image img {
@@ -96,7 +96,7 @@ header nav ul li a{
 }
 
 .main-title {
-	height: auto;
+	
 	
 }
 .main-title h2 {
@@ -114,7 +114,7 @@ header nav ul li a{
 .section-two,
 .section-three {
 	width: 33%;
-	height: auto;
+	
 	border-top: 0.063em solid #eee;
 }
 
@@ -154,7 +154,6 @@ header nav ul li a{
 
 /*The widths are in a percentage!*/
 footer {
-	height: 50px;
 	border-top: 0.188em solid #eee;
 	
 }
