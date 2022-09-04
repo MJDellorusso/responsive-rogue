@@ -35,7 +35,7 @@ p {
 /*The widths are in a percentage!*/
 header {
 	height: 110px;
-	border-bottom: 3px solid #77a466;
+	border-bottom: 0.188em solid #77a466;
 	margin: 0 auto;
 }
 
@@ -59,7 +59,7 @@ header nav ul {
 header nav ul li {
 	text-transform: uppercase;
 	font-weight: 700;
-	font-size: 14px;
+	font-size: 0.875em;
 	padding: 0 10px;
 	display: inline;
 }
@@ -81,7 +81,7 @@ header nav ul li a{
 }
 .main-image img {
 	width: 100%;
-	border-bottom: 3px solid #77a466;
+	border-bottom: 0.188em solid #77a466;
 }
 
 .main-title {
@@ -95,8 +95,8 @@ header nav ul li a{
 }
 .main-title p {
 	padding: 0;
-	font-size: 16px;
-	line-height: 25px;
+	font-size: 1em;
+	line-height: 1.563em;
 }
 
 .section-one,
@@ -105,7 +105,7 @@ header nav ul li a{
 	width: 33%;
 	height: auto;
 	float: left;
-	border-top: 1px solid #eee;
+	border-top: 0.063em solid #eee;
 }
 
 .section-one h3 {
@@ -113,8 +113,8 @@ header nav ul li a{
 }
 
 .section-two {
-	border-left: 1px solid #eee;
-	border-right: 1px solid #eee;
+	border-left: 0.063em solid #eee;
+	border-right: 0.063em solid #eee;
 }
 
 .section-two h3,
@@ -133,19 +133,19 @@ header nav ul li a{
 
 .reviews {
 	color: #333;
-	font-size: 16px;
-	line-height: 21px;
+	font-size: 1em;
+	line-height: 1.313em;
 }
 
 .address {
-	font-size: 16px;
-	line-height: 24px;
+	font-size: 1em;
+	line-height: 1.5em;
 }
 
 /*The widths are in a percentage!*/
 footer {
 	height: 50px;
-	border-top: 3px solid #eee;
+	border-top: 0.188em solid #eee;
 	margin: 0 auto;
 	clear: both;
 	text-align: center;
@@ -154,5 +154,5 @@ footer span {
 	font-family: 'Galada', cursive;
 	text-transform: lowercase;
 	color: #77a466;
-	font-size: 14px;
+	font-size: 0.875em;
 }
